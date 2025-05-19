@@ -15,7 +15,7 @@
 
 ## Skills stack / Technology stack
 
-- Java / Spring boot / Spring Jpa /
+- Java / OOP / Spring boot / Spring Jpa /
 - Spring Security / Telegram bots /
 - REST API / Android studio / PostgreSQL / jdbc
 
