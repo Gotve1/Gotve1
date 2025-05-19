@@ -1,13 +1,13 @@
 # Azimjanov Bekzod
 
-Backend ( Java / Spring boot / Telegram bots ) developer
-Experience 2 years
-Uzbek native, Russian native, English Intermediate
-Uzbekistan, GMT+5 (Tashkent)
-Email: **akselvolkov40@gmail.com**
-Github: **https://github.com/Gotve1**
-Phone number: **+998946681445**
-Telegram: **@gotve1**
+- Backend ( Java / Spring boot / Telegram bots ) developer
+- Experience 2 years
+- Uzbek native, Russian native, English Intermediate
+- Uzbekistan, GMT+5 (Tashkent)
+- Email: **akselvolkov40@gmail.com**
+- Github: **https://github.com/Gotve1**
+- Phone number: **+998946681445**
+- Telegram: **@gotve1**
 
 ## Summary
 
@@ -15,7 +15,9 @@ Telegram: **@gotve1**
 
 ## Skills stack / Technology stack
 
-Java / Spring boot / Spring Jpa / Spring Security / Telegram bots / REST API / Android studio / PostgreSQL / jdbc / 
+- Java / Spring boot / Spring Jpa /
+- Spring Security / Telegram bots /
+- REST API / Android studio / PostgreSQL / jdbc
 
 ## Education 
 PDP school
