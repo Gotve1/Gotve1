@@ -21,7 +21,7 @@
 
 ## Education 
 PDP school
-- 2 years of experience in Computer Engineering as Programmer Engineer September 2022 - june 2024 (expected)
+- 2 years of experience in Computer Engineering as Programmer Engineer September 2022 - june 2025 (expected)
 
 Activities 
 - Learned fundamentals of programming, data structures, and algorithms using Java
