@@ -12,7 +12,7 @@
 
 ## Summary
 
-**Java Backend developer** with 2 years of experience building web applications using technologies such as **Spring boot** and **Telegram bots** 
+**Java Backend developer** with 2 years of experience building web applications using technologies such as **Spring Framework** and **Telegram bots** 
 
 ## Skills stack / Technology stack
 
@@ -53,7 +53,7 @@ and user friendly UI.
 
 ## Education 
 PDP school
-- 2 years of experience in Computer Engineering as Programmer Engineer September 2023 - june 2025 (expected)
+- 2 years of experience in Computer Engineering as Programmer Engineer September 2023 - june 2025
 
 Activities 
 - Learned fundamentals of programming, data structures, and algorithms using Java
