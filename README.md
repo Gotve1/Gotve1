@@ -3,7 +3,7 @@
 
 - Backend ( Java / Spring boot / Telegram bots ) developer
 - Experience 2 years
-- Uzbek native, Russian native, English Intermediate B1
+- Uzbek native, Russian native, English B2
 - Uzbekistan, GMT+5 (Tashkent)
 - Email: **akselvolkov40@gmail.com**
 - Github: **https://github.com/Gotve1**
@@ -53,7 +53,7 @@ and user friendly UI.
 
 ## Education 
 PDP school
-- 2 years of experience in Computer Engineering as Programmer Engineer September 2023 - june 2025
+- 2 years of experience in Software Development as Backend Developer, September 2023 - june 2025
 
 Activities 
 - Learned fundamentals of programming, data structures, and algorithms using Java
